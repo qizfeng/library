@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bg_blue">#ff0694f5</color>
+
+    <color name="shouye_renmen_tv">#2b2b2b</color>
+
+    <color name="lv_divider">#dad9e2</color>
+    <color name="blue">#33b5e5</color>
+    <color name="shouye_lv_tv">#909090</color>
+    <color name="colorPrimary">#103375</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorPrimaryLight">#3067A8</color>
+    <!--3F51B5-->
+    <color name="colorAccent">#3067A8</color>
+
+
+    <color name="black">#0a0a0a</color>
+    <color name="white">#ffffff</color>
+    <color name="grey">#55000000</color>
+    <color name="green">#cc44ff18</color>
+    <!--103375-->
+    <color name="point_selected_color">@color/orange</color>
+    <color name="point_normal_color">#ffffff</color>
+
+    <color name="test">#ccA500CC</color>
+
+    <color name="number_selected_color">#ccA500CC</color>
+    <color name="number_normal_color">#cc666666</color>
+
+
+    <color name="orange">#FF5809</color>
+    <color name="transparent">#00000000</color>
+    <color name="ic_default_bg_color">#33000000</color>
+
+    <color name="ic_back_press">#323336</color>
+    <color name="ip_color_primary">#393A3F</color>
+    <color name="ip_color_primary_dark">#303135</color>
+    <color name="ip_color_primary_trans">#ec2f3335</color>
+    <color name="ip_color_press">#ffe0e0e0</color>
+    <color name="ip_camera_pre">#353535</color>
+    <color name="ip_color_accent">#1AAD19</color>
+    <color name="ip_text_secondary_inverted">#66ffffff</color>
+    <color name="ip_text_primary_inverted">#ffffff</color>
+    <color name="red">#ff0000</color>
+</resources>
